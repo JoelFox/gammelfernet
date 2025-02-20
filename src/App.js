@@ -1,4 +1,3 @@
-import logo from './Gammelfernet.jpg';
 import './App.css';
 
 function App() {
